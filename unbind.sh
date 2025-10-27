@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+set +x
 
 hyprctl dispatch exit
 sleep 2
